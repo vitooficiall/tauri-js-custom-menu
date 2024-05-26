@@ -1,5 +1,8 @@
 ### MacOS custom menu bar
-This menu bar is a custom component to use in tauri js with, the `decorations: false` flag in `tauri.conf.json`, and the tauri js api
+
+This menu bar is a custom component to use in tauri js with next js or react js
+
+![alt text](https://github.com/vitooficiall/tauri-js-custom-menu/blob/main/screenshot.png)
 
 ## Config to use
 2. Set all properties below in `src-tauri/tauri.conf.json`
