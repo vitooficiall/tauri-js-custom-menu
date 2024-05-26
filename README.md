@@ -1,6 +1,6 @@
 ### MacOS custom menu bar
 
-This menu bar is a custom component to use in tauri js with next js or react js
+This menu bar is a custom component with macOS design to use in tauri js with next js or react js
 
 ![alt text](https://github.com/vitooficiall/tauri-js-custom-menu/blob/main/screenshot.png)
 
